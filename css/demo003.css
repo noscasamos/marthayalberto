@@ -442,7 +442,7 @@ letter-spacing: 7px;
   letter-spacing: 5px;
 }
 .tespero{
-  font-family: 'Noto Serif Khojki', serif; 
+  font-family: 'Arapey', serif;
   font-size: 18px;
   line-height:2;
 }
@@ -461,7 +461,7 @@ letter-spacing: 7px;
 }
 @media only screen and (max-width: 380px) and (min-width: 320px)  {
 .tespero{
-  font-family: 'Noto Serif Khojki', serif; 
+  font-family: 'Arapey', serif;
   font-size: 18px;
   line-height:2;
 }
@@ -511,8 +511,8 @@ font-style: normal;
   letter-spacing: 4px;
 }
 .tespero{
-  font-family: 'Noto Serif Khojki', serif; 
-  font-size: 15px;
+  font-family: 'Arapey', serif;
+  font-size: 18px;
   line-height:2;
 }
 .nompadres{
